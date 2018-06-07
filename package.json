@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-weather",
+  "version": "1.0.0",
+  "description": "Simple weather web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauri280/nodejs-weather.git"
+  },
+  "author": "Lauri Leas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauri280/nodejs-weather/issues"
+  },
+  "homepage": "https://github.com/lauri280/nodejs-weather#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
